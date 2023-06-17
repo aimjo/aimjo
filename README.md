@@ -2,7 +2,7 @@
 - 👀 I’m interested in switching careers
 - 🌱 I’m currently learning to code via Springboard
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me aimjo617@gmail.com
 
 <!---
 aimjo/aimjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
